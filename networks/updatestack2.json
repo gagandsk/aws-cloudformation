@@ -3,10 +3,10 @@
     "platzilab": {
       "Type": "AWS::S3::Bucket",
       "Properties": {
-        "BucketName": "catsareawesome123"
+        "BucketName": "gaganmiprimerbucket123456789"
       }
     },
-    "platzilabalexis  ": {
+    "platzilabgagan  ": {
       "Type": "AWS::S3::Bucket"
     }
   }
