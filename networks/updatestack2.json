@@ -6,7 +6,7 @@
         "BucketName": "gaganmiprimerbucket123456789"
       }
     },
-    "platzilabgagan  ": {
+    "platzilabgagan": {
       "Type": "AWS::S3::Bucket"
     }
   }
